@@ -1,6 +1,6 @@
 # XSS in BlackCat CMS install page
 
-Software link: BlacCat CMS [(https://blackcat-cms.org/]
+Software link: BlacCat CMS [https://blackcat-cms.org/]
 
 Version: 1.4.1
 
